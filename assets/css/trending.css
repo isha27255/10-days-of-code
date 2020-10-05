@@ -31,15 +31,15 @@ a.nav-link.abc.active{
   color: rgb(230,80,92);
   }
 #section1 {
-    height: auto;
+    height: 100vh;
 }
 
 #section2 {
-    height: auto;
+    height: 100vh;
 }
 
 #section3 {
-    height: auto;
+    height: 100vh;
 }
 
 
